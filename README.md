@@ -4,7 +4,7 @@
 
 #### I'm an enthusiastic full stack developer student, with previous experience in sales/ business development, IT project management and consultancy. <br />
 Currently studying at Green Fox Academy. <br />
-Working on a restaurant management application, that supports restaurant reservations, reviews for both the client and the management side. This project is being built with a Java Spring back-end and a React front-end.  
+Working on a restaurant management application, that supports restaurant reservations and reviews for both the client and the management side. This project is being built with a Java Spring back-end and a React front-end.  
 
 
 ###  Languages and Tools I worked with 👨‍💻
